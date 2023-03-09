@@ -402,3 +402,18 @@ span:nth-child(2) {
   position: relative;
   overflow: hidden;
 }
+#side_button  {
+  a {
+    background: #70ccea;
+  }
+}
+#return_top {
+  a {
+    background: #99e0ff;
+  }
+}
+#return_top  {
+  a:hover{
+    background: #00d4ff;
+  }
+}

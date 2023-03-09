@@ -130,6 +130,18 @@ body.home #global_menu {
   box-sizing: border-box;
 }
 
+.megamenu_service_list {
+  background: #007995;
+}
+
+.megamenu_service_list .headline {
+  font-size: 16px;
+}
+
+.megamenu_blog_list {
+  background: #007995;
+}
+
 #header_slider {
   width: 100%;
   height: 900px;
@@ -469,6 +481,18 @@ span:nth-child(2) {
 .header_group {
   position: relative;
   overflow: hidden;
+}
+
+#side_button a {
+  background: #70ccea;
+}
+
+#return_top a {
+  background: #99e0ff;
+}
+
+#return_top a:hover {
+  background: #00d4ff;
 }
 
 #footer .service_list a {

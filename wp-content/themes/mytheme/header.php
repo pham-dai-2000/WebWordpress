@@ -18,7 +18,8 @@
     <link rel="profile" href="https://gmpg.org/xfn/11">
     <link rel="stylesheet"
           href="https://wakuwakuseikotsu.jp/w-wp/wp-content/themes/cure_tcd082/css/design-plus.css?ver=2.0">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"/>
 
     <?php wp_head(); ?>
 </head>
@@ -43,7 +44,7 @@
         </div>
         <a id="menu_button" href="#" style="display: none;"><span></span><span></span><span></span></a>
         <nav id="global_menu">
-            <ul id="menu-%e3%83%98%e3%83%83%e3%83%80%e3%83%bc%e3%83%a1%e3%83%8b%e3%83%a5%e3%83%bc" class="menu">
+            <ul id="menu-1" class="menu">
                 <li id="menu-item-33"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33 ">
                     <a href="/about/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About
@@ -89,7 +90,7 @@
 
                 <div class="link_button">
                     <a href="https://wakuwakuseikotsu.jp/treatment/"><font style="vertical-align: inherit;"><font
-                                    style="vertical-align: inherit;">view the details</font></font></a>
+                                    style="vertical-align: inherit;">View the details</font></font></a>
                 </div>
 
                 <div class="service_list clearfix">
@@ -104,7 +105,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/kotsuban/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/kotsuban.jpeg" alt=""
                                  title="">
                             <div class="title_area">
@@ -116,7 +117,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/gikkuri/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/gikkuri-mega.jpeg"
                                  alt="" title="">
                             <div class="title_area">
@@ -128,7 +129,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/%e9%8d%bc%e7%81%b8%e6%b2%bb%e7%99%82/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/09/-2021-09-16-9.28.45-e1631753479252.png"
                                  alt="" title="">
                             <div class="title_area">
@@ -140,7 +141,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/esute/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/B77B2001-7F6C-4B72-AA39-6A59CDDD3998-e1667787867762.jpeg"
                                  alt="" title="">
                             <div class="title_area">
@@ -151,7 +152,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/katakori/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/katakori-mega.jpeg"
                                  alt="" title="">
                             <div class="title_area">
@@ -163,7 +164,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/ago/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/ago-mega.jpeg" alt=""
                                  title="">
                             <div class="title_area">
@@ -175,7 +176,7 @@
                     </article>
                     <article class="item">
                         <a href="https://wakuwakuseikotsu.jp/treatment/hiza/">
-                            <img class="image"
+                            <img class="image_slider"
                                  src="https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/hiza-03.jpeg" alt=""
                                  title="">
                             <div class="title_area">
@@ -254,8 +255,7 @@
                                                  style="background:url(https://wakuwakuseikotsu.jp/w-wp/wp-content/uploads/2021/04/gikkuri-2.jpeg) no-repeat center center; background-size:cover;"></div>
                                         </div>
                                         <div class="title_area">
-                                            <h4 class="title"><span><font style="vertical-align: inherit;"><font
-                                                                style="vertical-align: inherit;">If you are suffering from back pain or strained back at Keisei Takasago, please visit Wakuwaku Osteopathic Clinic.</font></font></span>
+                                            <h4 class="title"><span><font style="vertical-align: inherit;">If you are suffering from back pain or strained back at Keisei Takasago, please visit Wakuwaku Osteopathic Clinic.</font></span>
                                             </h4>
                                         </div>
                                     </a>
