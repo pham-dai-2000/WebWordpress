@@ -47,7 +47,7 @@
             <ul id="menu-1" class="menu">
                 <li id="menu-item-33"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33 ">
-                    <a href="/about/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About
+                    <a href="/page-about/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">About
                                 our hospital</font></font></a>
                     <ul class="sub-menu">
                         <li id="menu-item-110"
